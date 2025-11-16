@@ -1,4 +1,4 @@
-# MAD Practical – Android Alarm Application (Service & BroadcastReceiver)
+# MAD Practical – 4 : Android Alarm Application (Service & BroadcastReceiver)
 
 This Android application demonstrates how to create an **Alarm App** using `Service`, `BroadcastReceiver`, `AlarmManager`, and `PendingIntent`.  
 It includes a UI for selecting time, scheduling alarms, and triggering alarm audio using `MediaPlayer`.  
